@@ -1,0 +1,12 @@
+[package]
+name = "lichessdbfish"
+version = "0.1.0"
+authors = ["Marat Shangareev <mshangareev@acronis.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.21"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
+rand = "0.7.2"
